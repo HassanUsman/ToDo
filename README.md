@@ -17,11 +17,10 @@ Features
 * List "To Do" shows previous day tasks, tasks added only in this list and tasks of current day.<br />
 * User lists not related with "My Day" and "To Do" lists.<br /><br />
 
-**Only Virtual emulator** *CAN* produces this [BUG](https://stackoverflow.com/questions/40084753/why-collapsing-toolbar-title-is-under-toolbar). Bug *NOT APPEARS* in **physical device**.<br /><br />
 
 Tasks | Task containers
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/dns21395/ToDo/master/ReadmeFiles/photo1.png)  |  ![](https://raw.githubusercontent.com/dns21395/ToDo/master/ReadmeFiles/photo2.png)
+![](https://raw.githubusercontent.com/HassanUsman/ToDo/master/ReadmeFiles/photo1.png)  |  ![](https://raw.githubusercontent.com/HassanUsman/ToDo/master/ReadmeFiles/photo2.png)
 
 
 
