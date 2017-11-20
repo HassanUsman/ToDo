@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:background="@drawable/top_shadow"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageButton
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:padding="16dp"
+        android:layout_alignParentRight="true"
+        android:id="@+id/addButton"
+        android:src="@drawable/arrow_up_bold_box"
+        android:tint="@android:color/darker_gray"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:padding="16dp"
+        android:layout_toLeftOf="@+id/addButton"
+        android:id="@+id/textTask"
+        android:maxLines="1"
+        android:lines="1"
+        android:singleLine="true"
+        android:hint="@string/add_to_do"
+        android:background="@android:color/transparent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+
+
+</RelativeLayout>
