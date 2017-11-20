@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">To-Do</string>
+    <string name="splash_activity_text">GET\nDISCIPLINED</string>
+    <string name="open_drawer">Drawer Open</string>
+    <string name="close_drawer">Drawer Close</string>
+    <string name="add_to_do">Add a to-do</string>
+    <string name="menu">Menu</string>
+    <string name="empty_text">text empty</string>
+    <string name="myday">My Day</string>
+    <string name="todo">To-Do</string>
+    <string name="newList">New list</string>
+    <string name="untitled_list">Untitled list</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="check">Check</string>
+    <string name="delete">Delete</string>
+</resources>
