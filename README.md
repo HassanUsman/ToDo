@@ -23,7 +23,7 @@ Tasks | Task containers
 ![](https://raw.githubusercontent.com/HassanUsman/ToDo/master/ReadmeFiles/photo1.png)  |  ![](https://raw.githubusercontent.com/HassanUsman/ToDo/master/ReadmeFiles/photo2.png)
 
 
-## If this library helps you in anyway, show your love :heart: by putting a :star: on this project :v:
+## If this app helps you in anyway, show your love :heart: by putting a :star: on this project :v:
 
 
 
