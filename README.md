@@ -44,8 +44,5 @@ Tasks | Task containers
    limitations under the License.
 ```
 
-### Contributing to PRDownloader
-All pull requests are welcome.
-
 
 
